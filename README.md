@@ -14,9 +14,9 @@ FILE: smlearn.py
 
 
 ========================
-FILE: example.py
+FILE: example.txt
 ========================
-# (Your existing example.py content goes here)
+# (Your existing example.txt content goes here)
 # Example usage / notes remain unchanged
 
 
