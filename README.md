@@ -55,7 +55,7 @@ smlearn/
 
 Clone the repository:
 
-git clone https://github.com/your-username/smlearn.git  
+git clone https://github.com/Sumair-khan-dev/smlearn.git  
 cd smlearn
 
 ### Important note about file placement
